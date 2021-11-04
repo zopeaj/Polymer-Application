@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Polymer App Toolbox - Starter Kit
 
 [![Build Status](https://travis-ci.org/Polymer/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/polymer-starter-kit)
@@ -84,3 +85,7 @@ Read More here [daffl/launchpad](https://github.com/daffl/launchpad#environment-
 ---
 
 Looking for our older PSK2 Polycast or migration blog post? See [the previous README](https://github.com/Polymer/polymer-starter-kit/blob/v3.2.1/README.md).
+=======
+# Polymer-Application
+Using google frontend application
+>>>>>>> de537af3afff37d18701edabc2f88954a7c840b1
