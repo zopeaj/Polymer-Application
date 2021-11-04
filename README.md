@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Polymer App Toolbox - Starter Kit
+# Polymer App Project
 
 [![Build Status](https://travis-ci.org/Polymer/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/polymer-starter-kit)
 
